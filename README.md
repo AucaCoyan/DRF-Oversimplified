@@ -17,7 +17,7 @@ A barebones Django Rest Framework to understand the library
 [Installation](#installation) •
 [Contributing](#contributing)
 
-![Alt text](Photo link)
+![Alt text](https://raw.githubusercontent.com/AucaCoyan/DRF-Oversimplified/master/img/screenshot.png)
 
 </div>
 
